@@ -4,7 +4,8 @@
   "description": "Chat Bot Helper",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "nodemon index.ts"
+    "dev": "nodemon index.ts",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",

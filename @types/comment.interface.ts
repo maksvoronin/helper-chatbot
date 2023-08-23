@@ -1,4 +1,6 @@
+import Decision from "./decision.interface";
 import Event from "./event.interface";
+import Series from "./series.interface";
 import System from "./system.interface";
 import User from "./user.interface";
 
